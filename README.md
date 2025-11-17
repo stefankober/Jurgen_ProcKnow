@@ -41,13 +41,17 @@ This launches a simple GUI that handles:
 The screenshots below explain each button directly in the image.
 
 ### Loading Questions
-![1. loading questions.png](1. loading questions.png)
+<img width="803" height="627" alt="1  loading questions" src="https://github.com/user-attachments/assets/2e582efb-fa9b-48d4-a0ef-6e0e9d7efcfa" />
+
 ### Answering Questions
-![2. answering questions.png](2. answering questions.png)
+<img width="803" height="627" alt="2  answering questions" src="https://github.com/user-attachments/assets/afc4113b-dd05-448d-a0b5-616bd5c65b5e" />
+
 ### Evaluating Answers
-![3. valuing questions.png](3. valuing questions.png)
+<img width="803" height="627" alt="3  valuing questions" src="https://github.com/user-attachments/assets/2f8610a2-a3b7-4e4f-ad79-6539a85c8195" />
+
 ### Looking at Stats
-![4. Stats.png](4. Stats.png)
+<img width="803" height="627" alt="4  Stats" src="https://github.com/user-attachments/assets/cfce37fa-b7cb-4740-b8f5-8fafc32948ab" />
+
 For each card you see:
 
 * correct count
