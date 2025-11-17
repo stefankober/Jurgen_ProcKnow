@@ -110,7 +110,7 @@ You can use some Latex in the question and the hint. It will be displayed as an 
 
 Jürgen ProcKnow currently supports three types of answer checking:
 
-1. data_type="int"
+1. data_type="int" with comparison="exact"
    - Your answer is converted with int(...).
    - Must match exactly.
 
